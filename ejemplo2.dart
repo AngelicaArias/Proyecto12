@@ -74,5 +74,3 @@ class Popo{
   double peso;
   Popo(this.peso);
 }
-
-
